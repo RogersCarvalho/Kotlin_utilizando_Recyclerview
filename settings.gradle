@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "aula_recyclerview_igor_ferrani"
